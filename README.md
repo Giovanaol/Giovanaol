@@ -1,6 +1,9 @@
-## boas-vindas ao meu perfil 🎀
+### Boas vindas ao meu perfil 🎀
 
-meu nome é giovana 
+Meu nome é giovana
 
--estou estudando na alura 
-![](https://tenor.com/bQ218.gif)
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ☀️
+
+![](https://tenor.com/pt-BR/view/j&d-kitty-gif-10368791297347099509)
